@@ -38,6 +38,3 @@ Depend on the trend of oil price in the future, investors decide the strategies 
 
 * **NeuralProphet -- Prediction of oil price:**  
 ![alt text](https://github.com/ILing82816/ds_oil_v2/blob/master/Short_predict.png "Short_term")
-
-## Productionization
-In this step, I built a flask API endpoint that was hosted on a local webserver by following along with the tutorial in the reference section above. The API endpoint takes in a request with the day of prediction and returns a list of estimated WTI Price.
